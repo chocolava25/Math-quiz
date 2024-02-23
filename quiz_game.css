@@ -1,0 +1,48 @@
+body
+{
+	font-family:"Quicksand" ;
+	background-color:#ECD6CF;
+	
+}
+
+	#player1_name , #player2_name 
+	{
+		background: #7BA0A4;
+		color: white  ;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid rgb(187, 131, 127);
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+
+#Send{
+background-color:#DAE8E6 ;
+border-color:#367269 ;
+border-radius: 30px ;
+width: 150px ;
+height: 30px ;
+}
